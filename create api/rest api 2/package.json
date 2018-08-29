@@ -1,0 +1,19 @@
+{
+  "name": "second-lesson",
+  "version": "1.0.0",
+  "description": "second lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "node restful api",
+    "start": "nodemon server.js"
+  },
+  "author": "dks",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
